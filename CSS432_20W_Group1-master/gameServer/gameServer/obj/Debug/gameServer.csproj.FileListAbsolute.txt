@@ -1,0 +1,11 @@
+C:\Users\bucco\OneDrive\Desktop\CSS432_20W_Group1\gameServer\gameServer\bin\Debug\gameServer.exe.config
+C:\Users\bucco\OneDrive\Desktop\CSS432_20W_Group1\gameServer\gameServer\bin\Debug\gameServer.exe
+C:\Users\bucco\OneDrive\Desktop\CSS432_20W_Group1\gameServer\gameServer\bin\Debug\gameServer.pdb
+C:\Users\bucco\OneDrive\Desktop\CSS432_20W_Group1\gameServer\gameServer\obj\Debug\gameServer.csprojAssemblyReference.cache
+C:\Users\bucco\OneDrive\Desktop\CSS432_20W_Group1\gameServer\gameServer\obj\Debug\gameServer.exe
+C:\Users\bucco\OneDrive\Desktop\CSS432_20W_Group1\gameServer\gameServer\obj\Debug\gameServer.pdb
+C:\Users\colby\source\repos\CSS432_20W_Group1\gameServer\gameServer\bin\Debug\gameServer.exe.config
+C:\Users\colby\source\repos\CSS432_20W_Group1\gameServer\gameServer\bin\Debug\gameServer.exe
+C:\Users\colby\source\repos\CSS432_20W_Group1\gameServer\gameServer\bin\Debug\gameServer.pdb
+C:\Users\colby\source\repos\CSS432_20W_Group1\gameServer\gameServer\obj\Debug\gameServer.exe
+C:\Users\colby\source\repos\CSS432_20W_Group1\gameServer\gameServer\obj\Debug\gameServer.pdb
