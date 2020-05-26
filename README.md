@@ -11,7 +11,7 @@ Download both the game server and the game lobby.
 
 Go to gamelobby -> TicTacToe.sln and open with Visual Studio, then find and open game.cs and gameLobby.cs.
 
-Set the IP address to loopback to run on local machine by uncommenting line 55 and commenting out line 50 (game.cs) uncomment line 158 and comment out line 153.
+Set the IP address to loopback to run on local machine by uncommenting line 55 and commenting out line 50 (game.cs) uncomment line 158 and comment out line 153 (gameLobby.cs).
 
 Build the game to produce an executable.
 
